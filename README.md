@@ -1,3 +1,16 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnplbHFsa2dheWFkb29uMHB1d3UwMG4xcWZueHcyZGMxNm1jcndqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nu5PSnk3imv4ffO3hB/giphy.gif)" width="100"/>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="header">
+    <h1>My GitHub Profile</h1>
+    <p> Ya krutoy specialist !</p>
 </div>
+
+</body>
+</html>
