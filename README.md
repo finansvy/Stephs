@@ -9,7 +9,8 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
+    <p> Обо мне:
+    Начинающий junior кодер. На данный момент изучаю Python</p>
 </div>
 
 </body>
